@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 change2
+=======
+izmeneniya
+>>>>>>> 05f6376... created content punkt2
 =======
 izmeneniya
 >>>>>>> 05f6376... created content punkt2
